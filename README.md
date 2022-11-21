@@ -1,7 +1,5 @@
 ### 🚀𝙏𝙤 𝙞𝙣𝙛𝙞𝙣𝙞𝙩𝙮 𝙖𝙣𝙙 𝙗𝙚𝙮𝙤𝙣𝙙 ✨
 
-<a href="https://opgc.me/#/users/eternalarchive" target="_blank"><img src="https://api.opgc.me/githubs/users/eternalarchive/tag/?border=normal" /></a>
-
 <!--
 **eternalarchive/eternalarchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
